@@ -1,7 +1,7 @@
 import React from 'react';
-import  Header  from './Components/Header/Header';
 import Dashboard from './Components/Dashboard';
 import { Outlet } from 'react-router-dom';
+import Header from './Components/Header/Header';
 
 const Root = () => {
     return (
